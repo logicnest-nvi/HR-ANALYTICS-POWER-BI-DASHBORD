@@ -37,7 +37,7 @@ Enabled data-driven HR insights for future hiring strategies
 Nikhil Ingle
 Third-Year Engineering Student | Power BI & Data Analytics Enthusiast
 
-screenshot of eorking dashbord
+screenshot of working dashbord
 https://github.com/logicnest-nvi/HR-ANALYTICS-POWER-BI-DASHBORD/blob/main/HRANALYTICSDB.png
 
 
